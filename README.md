@@ -10,3 +10,7 @@ npm install -S afeiship/next-weapp-set-data --registry=https://registry.npm.taob
 ```js
 //DOCS here!
 ```
+
+## resources
+- https://www.2cto.com/kf/201902/796401.html
+- https://www.jianshu.com/p/d4fb22509eb9
