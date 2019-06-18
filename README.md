@@ -8,7 +8,19 @@ npm install -S afeiship/next-weapp-set-data --registry=https://registry.npm.taob
 
 ## usage
 ```js
-//DOCS here!
+import 'next-weapp-set-data';
+
+// old:
+this.setData({
+  data1: 'value1',
+  list: bigList
+});
+
+// new:
+nx.weappSetData(this,{
+  data1: 'value1',
+  list: bigList
+});
 ```
 
 ## resources
