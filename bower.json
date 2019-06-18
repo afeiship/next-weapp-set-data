@@ -1,0 +1,28 @@
+{
+  "name": "next-weapp-set-data",
+  "version": "0.0.1",
+  "description": "AsyncSetData for weapp",
+  "main": "dist/next-weapp-set-data.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-weapp-set-data",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
